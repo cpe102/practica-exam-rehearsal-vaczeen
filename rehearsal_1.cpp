@@ -15,11 +15,12 @@ if(gpa>=3.50)
 {
 cout<< x <<" Inw Jrim Jrim!!!";
 } 
-if(gpa<=3.50);
+
+if(gpa<3.50)
 {
 cout<<"Try harder, "<< x<<"!!!";
 }
+
 return 0;
 
 }
-

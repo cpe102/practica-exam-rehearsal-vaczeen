@@ -1,10 +1,9 @@
-
 #include<iostream>
 using namespace std;
 int main()
 {
-	int sum=0;
-	int x;
+	float sum=0;
+	float x;
 	cout<<"Enter X: ";
 	cin>>x;
 	while(x!=0)
