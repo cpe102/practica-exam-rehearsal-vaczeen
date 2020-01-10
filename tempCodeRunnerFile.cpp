@@ -1,21 +1,7 @@
 #include <iostream>
-#include<cmath>
-using namespace std;
+
 //Write sumSqrt() here.
-double sumSqrt(double N)
-{
-	double a=1,b=2;
-	while(b<=N)
-	{
-	a=a+1/sqrt(b);
-	b++;	
-	}
-	if(N<=0)
-	{
-		return 0;
-	}
-	return a;
-}
+
 
 int main()
 {
